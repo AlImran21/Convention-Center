@@ -34,3 +34,20 @@ a {
 .package-color {
     color: #0A0826;;
 }
+.price-color {
+    color: #231D4F;
+}
+.purple-tick {
+    background-color: #E5E5E5;
+    color: #5243C2;
+    border-radius: 50%;
+    padding: 2px 2px;
+    margin-right: 5px;
+}
+.plan-btn {
+    background-color: #E5E5E5;
+    color: #3F87F5;
+    padding: 8px 28px;
+    border: none;
+    font-weight: bold;
+}

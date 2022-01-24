@@ -3,8 +3,17 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-.site-name {
-   
+.first-section {
+    margin-bottom: 100px;
+}
+.second-section {
+    margin-bottom: 100px;
+}
+.third-section {
+    margin-bottom: 100px;
+}
+.asked-title {
+    margin-bottom: 130px;
 }
 .custom-bg-color {
     background: #FFFFFF;
@@ -44,10 +53,35 @@ a {
     padding: 2px 2px;
     margin-right: 5px;
 }
+.white-tick {
+    background: rgba(211, 211, 211, 0.144);
+    color: #FFFFFF;
+    border-radius: 50%;
+    padding: 2px 2px;
+    margin-right: 5px;
+}
 .plan-btn {
     background-color: #E5E5E5;
     color: #3F87F5;
     padding: 8px 28px;
     border: none;
     font-weight: bold;
+}
+.plan-btn-special {
+    background-color: #FFFFFF;
+    color: #3F87F5;
+    padding: 8px 28px;
+    border: none;
+    font-weight: bold;
+}
+.special-col {
+    background-color: #3F87F5;
+    color: #FFFFFF;
+    padding: 10px 30px;
+
+}
+footer {
+    background-color: #0B0D17;
+    color: #D9DBE1;
+    
 }
